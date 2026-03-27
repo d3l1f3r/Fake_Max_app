@@ -1,4 +1,4 @@
-### ![logo](logo_readme.png)
+### <img src="https://github.com/d3l1f3r/Fake_Max_app/blob/main/logo_readme.jpg" width="100% />
 
 ### 📝 Description
 Not a real application of the national messenger Max, the application is just a dummy, without unnecessary functions and other things, it creates the appearance of having it on your phone.
@@ -25,6 +25,4 @@ Not a real application of the national messenger Max, the application is just a 
 
 ```pip install --upgrade pip setuptools wheel "cython==0.29.37" buildozer```
 
-```buildozer init```
-
-```buildozer -v android debug deploy run```
+```buildozer -v android debug```
