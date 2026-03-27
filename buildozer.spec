@@ -34,7 +34,7 @@ source.exclude_dirs = tests, bin, venv, .buildozer, Tools
 source.exclude_patterns = */test/*, */tests/*, */lib2to3/tests/*, */Tools/*
 
 # (str) Application versioning (method 1)
-version = 0.1
+version = 2.0
 
 # (str) Application versioning (method 2)
 # version.regex = __version__ = ['"](.*)['"]
