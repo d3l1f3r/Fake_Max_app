@@ -1,10 +1,10 @@
-### <img src="https://github.com/d3l1f3r/Fake_Max_app/blob/main/logo_readme.jpg" width="100%" />
+### <img src="https://github.com/d3l1f3r/Fake_Max_app/blob/main/assets/logo_readme.jpg" width="100%" />
 
 ### 📝 Description
 Not a real application of the national messenger Max, the application is just a dummy, without unnecessary functions and other things, it creates the appearance of having it on your phone.
 
 ### 🖼️ Screenshotes
-<img src="https://github.com/d3l1f3r/Fake_Max_app/blob/main/1.jpg" width="50%" /> <img src="https://github.com/d3l1f3r/Fake_Max_app/blob/main/2.jpg" width="50%" />
+<img src="https://github.com/d3l1f3r/Fake_Max_app/blob/main/assets/1.jpg" width="50%" /> <img src="https://github.com/d3l1f3r/Fake_Max_app/blob/main/assets/2.jpg" width="50%" />
 
 
 ### 🛠️ Tools
