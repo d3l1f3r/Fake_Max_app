@@ -6,7 +6,7 @@
 [app]
 
 # (str) Title of your application
-title = Max
+title = MAX
 
 # (str) Package name
 package.name = Maxmessenger
@@ -34,7 +34,7 @@ source.exclude_dirs = tests, bin, venv, .buildozer, Tools
 source.exclude_patterns = */test/*, */tests/*, */lib2to3/tests/*, */Tools/*
 
 # (str) Application versioning (method 1)
-version = 2.0
+version = 4.0
 
 # (str) Application versioning (method 2)
 # version.regex = __version__ = ['"](.*)['"]
@@ -109,8 +109,8 @@ android.presplash_color = #000000
 #android.presplash_lottie = "path/to/lottie/file.json"
 
 # (str) Adaptive icon of the application (used if Android API level is 26+ at runtime)
-#icon.adaptive_foreground.filename = %(source.dir)s/data/icon_fg.png
-#icon.adaptive_background.filename = %(source.dir)s/data/icon_bg.png
+icon.adaptive_foreground.filename = assets/adaptive_foreground.png
+icon.adaptive_background.filename = assets/adaptive_background.png
 
 # (list) Permissions
 # (See https://python-for-android.readthedocs.io/en/latest/buildoptions.html for all the supported syntaxes and properties)
