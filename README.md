@@ -26,3 +26,6 @@ Not a real application of the national messenger Max, the application is just a 
 ```pip install --upgrade pip setuptools wheel "cython==0.29.37" buildozer```
 
 ```buildozer -v android debug```
+
+### VirusTotal
+https://www.virustotal.com/gui/file/5143bee32e4845e2ae1343895e98c08a56238216be86e091a066b720c84acaba?nocache=1
