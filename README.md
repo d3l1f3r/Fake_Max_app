@@ -13,6 +13,7 @@ Not a real application of the national messenger Max, the application is just a 
 | **Python-3.11** | Main Programming language |
 | **kivy** | Python library for GUI |
 | **buildozer** | Buildozer is a tool for turning Python applications into binary packages |
+| **Java(jdk17-openjdk)** | Java for Gradle
 
 ### 🚀 Installing
 ```git clone https://github.com/d3l1f3r/Fake_Max_app.git```
